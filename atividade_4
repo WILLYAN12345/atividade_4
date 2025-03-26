@@ -1,0 +1,5 @@
+let times = ["flamengo","palmeiras","são paulo","santos","corinthians","grêmio","internacional","atlético mineiro","vasco da gama","botafogo"];
+
+for (indice = 0; indice <= 9;indice ++){
+  console.log (times[indice]);
+}
